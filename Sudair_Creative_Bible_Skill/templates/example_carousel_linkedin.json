@@ -1,0 +1,122 @@
+{
+ "id": "NOV-L01",
+ "date": "2026-11-02",
+ "week": 1,
+ "channel": "LI+X",
+ "format": "carousel",
+ "pillar": "Meet the makers",
+ "title_en": "Inside Sudair City: the site, the people, the day",
+ "title_ar": "داخل مدينة سدير: المكان والناس واليوم",
+ "objective": "A professional sees Sudair City as a place with people in it, and follows the page to see more of it.",
+ "treatment": "T6",
+ "hero_en": "The picture must say 'this is a place, and people work in it'. Dark emerald left side fading to the real golden-hour drone view of the palm-lined campus; three tall petal-shaped glowing windows in a fan above the campus, each showing a calm scene of people at work from real photos (the lab team standing together, an analyst at the bench, women and men at the packaging line). Mint rim light on the petal edges, soft mist. No people generated, no containers, no readable labels. Keep the top-left corner clear for the logo.",
+ "asset_ids": [
+  "A001",
+  "A002",
+  "A005",
+  "A007",
+  "A013"
+ ],
+ "source": "REAL+GENERATED",
+ "generated_elements": "Petal-window frame, dusk sky grade and mint rim light composited over the real campus drone still; petals filled with real photo crops only.",
+ "consent_needed": true,
+ "needs_fact": false,
+ "compliance_note": "Description of place and people only: no figures, no claims, no products, no readable labels. Staff consent needed for the people in the petals.",
+ "head_ar_1": "داخل مدينة سدير",
+ "head_ar_2": "المكان والناس",
+ "kashida_word": "مدينة",
+ "head_en": "Inside Sudair City",
+ "sub_en": "The site, the people, the day.",
+ "chip": "SUDAIR CITY",
+ "caption_ar": "داخل مدينة سدير للصناعات الدوائية، يبدأ اليوم قبل أن تُضاء الواجهة.\nمكانٌ يتسع للمختبر وقاعة التعبئة والممرات والنخيل، ويتسع قبل ذلك كله لناسٍ يعرفون بعضهم بالاسم.\nجولة قصيرة بين المكان والناس واليوم.\nتابعوا الصفحة لنرافقكم أكثر من الداخل.",
+ "caption_en": "Inside Sudair City, the day begins before the facade lights come on.\nThe site holds the lab, the packaging hall, the corridors and the palms. Before all that, it holds people who know each other by name.\nA short walk through the place, the people and the day.\nFollow the page and see more from the inside.",
+ "hashtags": "#سدير_للأدوية #SudairPharma #مدينة_سدير #SudairCity",
+ "claim_level": "NONE",
+ "claim_type": "",
+ "claim_detail": "",
+ "slides": [
+  {
+   "n": 1,
+   "role": "hook",
+   "treatment": "T6",
+   "hero_en": "Petal-window key visual over the real golden-hour campus: three glowing petals showing people at work; headline in the dark left column. Keep the top-left corner clear for the logo.",
+   "asset_ids": [
+    "A001",
+    "A005",
+    "A007",
+    "A013"
+   ],
+   "head_ar_1": "داخل مدينة سدير",
+   "head_ar_2": "المكان والناس",
+   "kashida_word": "مدينة",
+   "head_en": "Inside Sudair City",
+   "body_ar": "جولة قصيرة في المكان والناس واليوم.",
+   "body_en": "A short walk through the place, the people and the day.",
+   "small_en": "SUDAIR CITY"
+  },
+  {
+   "n": 2,
+   "role": "idea",
+   "treatment": "T6",
+   "hero_en": "The real drone view of the whole site in the desert, graded to emerald and teal; wide and calm, headline over the dark sky area, no people.",
+   "asset_ids": [
+    "A002"
+   ],
+   "head_ar_1": "مكانٌ في قلب نجد",
+   "head_ar_2": "اسمه سدير",
+   "kashida_word": "قلب",
+   "head_en": "A place in Najd called Sudair",
+   "body_ar": "موقعٌ واسع، وواجهةٌ بين النخيل.",
+   "body_en": "A wide site, and a facade among palms.",
+   "small_en": ""
+  },
+  {
+   "n": 3,
+   "role": "idea",
+   "treatment": "T2",
+   "hero_en": "Women and men of the packaging hall standing together at the line, wide, teal-green grade, natural faces; crop so no container or label is readable.",
+   "asset_ids": [
+    "A013"
+   ],
+   "head_ar_1": "وفيه ناس",
+   "head_ar_2": "نساء ورجال",
+   "kashida_word": "رجال",
+   "head_en": "And in it, people",
+   "body_ar": "كلٌّ في محطته، والفريق واحد.",
+   "body_en": "Women and men, each at a station, one team.",
+   "small_en": ""
+  },
+  {
+   "n": 4,
+   "role": "idea",
+   "treatment": "T3",
+   "hero_en": "The lab analyst at the bench in profile, calm and focused, daylight, dark green panel on the right for text; no readable label on any container.",
+   "asset_ids": [
+    "A007"
+   ],
+   "head_ar_1": "ومن الصباح",
+   "head_ar_2": "إلى المساء",
+   "kashida_word": "الصباح",
+   "head_en": "From morning to evening",
+   "body_ar": "يومٌ كاملٌ، بأيدي أهله.",
+   "body_en": "A full day, in the hands of its people.",
+   "small_en": ""
+  },
+  {
+   "n": 5,
+   "role": "cta",
+   "treatment": "T8",
+   "hero_en": "Type card on deep emerald, centred two-level Arabic theme line, thin mint rule, small white line icon; hairline inset frame. No photograph. Real logo placed by the layout tool.",
+   "asset_ids": [
+    "L02"
+   ],
+   "head_ar_1": "صناعة تُرى،",
+   "head_ar_2": "وأثر يُقاس.",
+   "kashida_word": "صناعة",
+   "head_en": "Visible capability. Measurable impact.",
+   "body_ar": "تابعوا الصفحة لمزيدٍ من الداخل.",
+   "body_en": "Follow the page for more from the inside.",
+   "small_en": "SUDAIR PHARMA"
+  }
+ ]
+}

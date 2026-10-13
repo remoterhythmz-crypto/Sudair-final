@@ -1,0 +1,145 @@
+{
+ "channel": "IG+FB",
+ "needs_fact": false,
+ "claim_level": "NONE",
+ "claim_type": "",
+ "claim_detail": "",
+ "chip": "Reel · Meet the makers",
+ "id": "NOV-F01",
+ "date": "2026-11-01",
+ "week": 1,
+ "format": "reel",
+ "pillar": "Meet the makers",
+ "title_en": "A day at Sudair City",
+ "title_ar": "يومٌ في مدينة سدير",
+ "objective": "The viewer sees Sudair City as a place full of people and decides to follow the month to meet them.",
+ "treatment": "T6",
+ "hero_en": "Message: Sudair City is a place with people in it. Cover frame in the key-visual petal style: dark emerald left side for the headline, three tall glowing petal windows in a fan above the real campus at golden hour with palms and warm walkway lights; inside the petals a drone view of the site, steady hands at a bench and a team standing together. Calm, cinematic, no product, no readable label, logo area top-left kept clear.",
+ "asset_ids": [
+  "A001",
+  "A002",
+  "A013",
+  "A007",
+  "A005",
+  "KV1",
+  "L02",
+  "A129"
+ ],
+ "source": "REAL+GENERATED",
+ "generated_elements": "Petal-window composite and colour grade for the cover frame only; every shot of the reel is real footage.",
+ "consent_needed": true,
+ "compliance_note": "People at work only; no process explained, no figures, no assurance wording; frame A013 to faces and hands so no pack or label reads.",
+ "head_ar_1": "يومٌ في مدينة سدير",
+ "head_ar_2": "كما يعيشه أهله",
+ "kashida_word": "سدير",
+ "head_en": "A day at Sudair City",
+ "sub_en": "Told by the people who live it",
+ "caption_ar": "يبدأ يومنا في مدينة سدير مع ضوء الصباح، ويمتد بين وجوهٍ وأيدٍ وأماكن نعرفها جيدًا.\nنصحبكم اليوم في جولة قصيرة من الجو إلى الوجوه.\nتابعونا طوال الشهر لنتعمّق أكثر في الناس والمكان.",
+ "caption_en": "Our day begins in Sudair City with the morning light and moves through faces, hands and places we know well.\nCome along on a short tour, from the sky down to the faces.\nStay with us this month as we go deeper into the people and the place.",
+ "hashtags": "#سدير_للأدوية #SudairPharma #مدينة_سدير #SudairCity",
+ "duration_s": 20,
+ "concept": "One walk from the drone view down to the faces: where Sudair City is, and who is in it. No explanation of what is made, only where and by whom.",
+ "audio": "Warm, light instrumental with a slow pulse around 90 bpm, soft room tone under the interior shots, a gentle chime on each cut, no vocals, no named tracks.",
+ "vo_ar": "يبدأ يومنا مع ضوء الصباح. مكانٌ واسع في قلب نجد، وفيه وجوهٌ تعرفه جيدًا. أيدٌ هادئة عند الطاولة، وفريقٌ يقف معًا. هذه مدينتنا، وهؤلاء أهلها. صناعة تُرى، وأثر يُقاس.",
+ "vo_en": "Our day begins with the morning light. A wide place in the heart of Najd, and inside it, faces that know it well. Quiet hands at the bench, a team standing together. This is our city, and these are its people. Visible capability. Measurable impact.",
+ "cover_hero_en": "Petal-window cover over the campus at golden hour, headline in the dark emerald left column, logo area clear.",
+ "shots": [
+  {
+   "n": 1,
+   "sec_start": 0,
+   "sec_end": 3,
+   "key_frame_en": "Drone view over the palm-lined campus in golden morning light.",
+   "asset_ids": [
+    "A001"
+   ],
+   "camera_move": "Slow drone push-in with a slight descent",
+   "subject_motion": "None; light moves across the facade",
+   "environment_motion": "Palms sway gently, long shadows creep along the walkway",
+   "on_screen_ar": "مدينة سدير",
+   "on_screen_en": "Sudair City",
+   "vo_ar": "يبدأ يومنا مع ضوء الصباح.",
+   "vo_en": "Our day begins with the morning light."
+  },
+  {
+   "n": 2,
+   "sec_start": 3,
+   "sec_end": 7,
+   "key_frame_en": "Wide drone view of the whole Sudair City site in the desert.",
+   "asset_ids": [
+    "A002"
+   ],
+   "camera_move": "Slow lateral drone glide, wide",
+   "subject_motion": "None",
+   "environment_motion": "Heat shimmer and the shadow of a light cloud crossing the ground",
+   "on_screen_ar": "في قلب نجد",
+   "on_screen_en": "In the heart of Najd",
+   "vo_ar": "مكانٌ واسع في قلب نجد.",
+   "vo_en": "A wide place in the heart of Najd."
+  },
+  {
+   "n": 3,
+   "sec_start": 7,
+   "sec_end": 10,
+   "key_frame_en": "Women and men of the team at the packaging hall line, framed to faces and hands, no pack or label readable.",
+   "asset_ids": [
+    "A013"
+   ],
+   "camera_move": "Slow push-in at chest height",
+   "subject_motion": "Colleagues exchange a greeting and begin the shift",
+   "environment_motion": "Bright hall light, soft movement behind",
+   "on_screen_ar": "وجوهٌ تعرفه",
+   "on_screen_en": "Faces that know it",
+   "vo_ar": "وفيه وجوهٌ تعرفه جيدًا.",
+   "vo_en": "And faces that know it well."
+  },
+  {
+   "n": 4,
+   "sec_start": 10,
+   "sec_end": 14,
+   "key_frame_en": "Lab analyst at the bench, hands and face in profile, shallow depth.",
+   "asset_ids": [
+    "A007"
+   ],
+   "camera_move": "Slow lateral slide, shallow depth of field",
+   "subject_motion": "Steady hands at work, a short glance up",
+   "environment_motion": "Soft daylight, a quiet room",
+   "on_screen_ar": "أيدٌ هادئة",
+   "on_screen_en": "Quiet hands",
+   "vo_ar": "أيدٌ هادئة عند الطاولة.",
+   "vo_en": "Quiet hands at the bench."
+  },
+  {
+   "n": 5,
+   "sec_start": 14,
+   "sec_end": 17,
+   "key_frame_en": "The lab team standing together in the lab, facing camera.",
+   "asset_ids": [
+    "A005"
+   ],
+   "camera_move": "Slow push-in to a wide group frame",
+   "subject_motion": "The team turns to camera, small nods and smiles",
+   "environment_motion": "Gentle movement of light across the bench behind",
+   "on_screen_ar": "فريقٌ واحد",
+   "on_screen_en": "One team",
+   "vo_ar": "وفريقٌ يقف معًا.",
+   "vo_en": "A team standing together."
+  },
+  {
+   "n": 6,
+   "sec_start": 17,
+   "sec_end": 20,
+   "key_frame_en": "End card: deep emerald gradient with the white one-colour logo top-left, the theme line centred in white with a mint rule, the website bottom-left, faint lattice texture.",
+   "asset_ids": [
+    "L02",
+    "A129"
+   ],
+   "camera_move": "Static, gentle fade-up",
+   "subject_motion": "None",
+   "environment_motion": "Soft glow drifts across the lattice",
+   "on_screen_ar": "صناعة تُرى، وأثر يُقاس.  sudairpharma.com",
+   "on_screen_en": "Visible capability. Measurable impact.  sudairpharma.com",
+   "vo_ar": "هذه مدينتنا، وهؤلاء أهلها.",
+   "vo_en": "This is our city, and these are its people."
+  }
+ ]
+}
